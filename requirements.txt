@@ -1,0 +1,29 @@
+# WirelessJEPA Requirements
+# PyTorch-based implementation of "WirelessJEPA: A Multi-Antenna Foundation Model using Spatio-temporal Wireless Latent Predictions"
+
+# Core dependencies
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Data processing
+pickle5>=0.0.11
+pyyaml>=6.0
+
+# ML/Evaluation utilities
+scikit-learn>=1.2.0
+scikit-image>=0.20.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+pandas>=1.5.0
+tqdm>=4.65.0
+
+# Development tools (optional)
+jupyter>=1.0.0
+notebook>=6.5.0
+ipython>=8.10.0
+
+# Testing (optional)
+pytest>=7.0.0
+pytest-cov>=4.0.0

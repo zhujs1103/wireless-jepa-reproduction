@@ -1,0 +1,13 @@
+__pycache__/
+.venv/
+venv/
+data/
+checkpoints/
+checkpoints_random/
+logs/
+outputs/
+outputs_random/
+test_outputs/
+*.pt
+*.pth
+*.pkl
